@@ -1,0 +1,204 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container
+{
+width: 1100px;
+margin: auto;
+
+}
+.upper-bar
+{
+    background-color: #013765;
+    text-align: center;
+    font-size: 17px;
+    font-weight: light;
+    color: white;
+    height: 40px;
+    padding-top: 15px;
+    position: sticky;
+}
+.upper-bar2
+{
+height: 38px;
+text-align: right;
+color: #979797;
+border: 1px solid #979797;
+
+}
+.upper-bar2 a
+{
+    text-decoration: none;
+    color: #979797;
+    padding:12px 20px;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+nav .container img
+{
+    margin: 20px;
+}
+.logo-bar
+{
+    float: right;
+}
+.logo-bar a
+{
+    text-decoration: none;
+    color: #979797;
+    padding:30px;
+    display: inline-block;
+    font-size: 15px;
+
+}
+
+.logo-bar a:hover
+{
+  
+    border-top: 3px solid  #013765;
+
+}
+
+.shop-now-button
+{
+    padding: 14px !important;
+    color: white !important;
+    background-color: #013765;
+    border-radius: 50px;
+    letter-spacing: 2px;
+    font-size: 10px !important;
+    font-weight: bold;
+}
+
+.search
+{
+    height: 200px;
+    text-align: center;
+}
+
+.search input   
+{
+    width: 500px;
+    height: 30px;
+    margin-top:50px ;
+    padding: 10px;
+}
+.featured , .sale
+{
+    text-align: center;
+}
+
+.featured-span{
+font-size: 38px;
+font-weight: bold;
+color: #2B2E32;
+letter-spacing: 1px;
+}
+.watches
+{
+margin: 30px 0px ;
+ }
+.card
+{
+    float: left;
+    width: 23%;
+    color: #013765;
+    text-align: left;
+    margin: 10px;
+
+}
+.card img   
+{
+    width: 300px;
+    height: 400px;
+}
+
+.four-images
+{
+clear: both;
+margin: 100px 0px 100px 0px;
+}
+
+.in-photo
+{
+    margin-top: 70px;
+    float: left;
+width: 25%;
+text-align: center;
+color: white;
+}
+.in-photo img
+{
+    width: 380px;
+}
+.in-photo h2
+{
+    margin: 0px;
+    padding: 20px;
+}
+
+.one{
+    background-color: #C6CC48;
+}
+
+.two {
+    background-color:#F2A88F;
+}
+
+.three{
+    background-color:#67A2DA;
+}
+
+.four {
+    background-color: #FDE718 ;
+}
+
+.four-images h2:hover
+{
+    background-color:#52d8cb ;
+}
+
+.sale
+{
+    clear: both;
+    padding-top: 200px;
+}
+
+.sales button
+{
+    margin: 30px;
+    padding: 10px ;
+    color: white;
+    border-radius: 50px;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+   background-color: #013765;
+}
+
+.squares
+{
+    background-color: #F6F6F6;
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+}
+
+.squares img
+{
+    margin: 30px;
+}
+.squares span
+{
+    padding-bottom: 40px;
+    letter-spacing: 3px;
+}
+footer
+{
+    height: 400px;
+background-color: #2B2E32;
+}
